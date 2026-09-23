@@ -1,1 +1,1 @@
-# birinchi-loyham
+<h1>salom dunyo</h1>
